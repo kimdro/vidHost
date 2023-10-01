@@ -1,3 +1,3 @@
 # vidHost
 
-Experimental video hosting for CinemaMod
+Experimental video hosting
